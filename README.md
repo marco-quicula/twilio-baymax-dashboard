@@ -6,7 +6,6 @@ This project aims to create a comprehensive dashboard for Twilio, utilizing Twil
 ## Features
 - Real-time monitoring of Twilio services
 - Detailed analytics and reporting
-- Easy integration with existing systems
 - User-friendly interface for seamless navigation
 
 ## Installation
