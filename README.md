@@ -40,7 +40,7 @@ After running the application, open your web browser and navigate to http://loca
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure your code follows the project's coding guidelines and is well-documented.
 
 ## License
-This project is licensed under the Apache License 2.0. See the LICENSE file for more details.
+This project is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0). See the [LICENSE](./LICENSE) file for more details.
 
 ## Acknowledgements
 Special thanks to Twilio for their amazing API and support.
