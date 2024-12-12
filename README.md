@@ -48,4 +48,4 @@ Special thanks to Twilio for their amazing API and support.
 ## Name Inspiration
 The name "Twilio Baymax Dashboard" was inspired by the character Baymax from the movie "Big Hero 6". Baymax is a caring and reliable robot designed to help and care for people. Similarly, our dashboard is designed to be a user-friendly and efficient tool that provides real-time monitoring and management of Twilio communication services. Just like Baymax, our goal is to make the user experience safer, more reliable, and enjoyable.
 
-![pngkit_baymax-png_3020557](https://github.com/user-attachments/assets/35844581-8d2e-4fff-b952-4a765ff82e69)
+![394606449-35844581-8d2e-4fff-b952-4a765ff82e69_50](https://github.com/user-attachments/assets/6f4c88d5-169c-4f1e-a93d-7eec14f686da)
