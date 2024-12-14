@@ -12,8 +12,8 @@ This project aims to create a comprehensive dashboard for Twilio, utilizing Twil
 1. **Clone the repository**:
    
    ```bash
-   git clone https://github.com/yourusername/twilio-dashboard-java.git
-   cd twilio-dashboard-java
+   git clone https://github.com/yourusername/twilio-baymax-dashboard.git
+   cd twilio-baymax-dashboard
 
 2. **Install dependencies**:
    Make sure you have Maven installed. Then, install the project dependencies
